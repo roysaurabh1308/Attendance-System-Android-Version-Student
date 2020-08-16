@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student Attendance App</string>
+    <string name="title_activity_studentdashboard">studentdashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="okk">
+        PSS presents you the Attendance Register,an android application
+        to manage the attendance of the students of an institution.
+        This utility app not only focuses on maintaining the paperless records
+        of attendance of students,but also calculates the realtime average and
+        the number of students present in a particular class.Whole data is saved
+        in cloud so no hassle of having any paperwork.
+
+        This Wondrous Application is developed under supervision of Dr.Muneendra Ojha
+        by Saurabh Pandey,Saurabh Roy and Prahlad Kumar .</string>
+</resources>

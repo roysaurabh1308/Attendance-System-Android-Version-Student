@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Forgot Password"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:background="@drawable/bgcolor"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:textAppearance="?android:textAppearanceMedium"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:hint="Enter old Password"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:background="@drawable/input"
+                android:textColor="@android:color/black"
+                android:inputType="textPassword"
+                android:id="@+id/oldpass_et"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:hint="Enter new Password"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:background="@drawable/input"
+                android:textColor="@android:color/black"
+                android:inputType="textPassword"
+                android:id="@+id/forpass_et"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:hint="Confirm Password"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:background="@drawable/input"
+                android:textColor="@android:color/black"
+                android:inputType="textPassword"
+                android:id="@+id/forpass_confirm_et"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Reset Password"
+                android:textColor="@android:color/white"
+                android:layout_margin="10dp"
+                android:padding="7dp"
+                android:background="@drawable/bgcolor"
+                android:id="@+id/forpass_bt"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

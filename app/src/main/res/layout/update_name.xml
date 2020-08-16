@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update Name"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:background="@drawable/bgcolor"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:textAppearance="?android:textAppearanceMedium"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:hint="Enter name"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:textColorHint="#050505"
+                android:background="@drawable/input"
+                android:textColor="@android:color/black"
+                android:inputType="textCapWords"
+                android:id="@+id/update_name_et"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update"
+                android:textColor="@android:color/white"
+                android:layout_margin="10dp"
+                android:padding="7dp"
+                android:background="@drawable/bgcolor"
+                android:id="@+id/update_bt"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

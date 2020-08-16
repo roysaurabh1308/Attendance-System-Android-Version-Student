@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile1"
+            android:icon="@drawable/profile_icon"
+            android:title="Profile" />
+
+    </group>
+
+    <item android:title="Account Security">
+        <menu>
+            <item
+                android:id="@+id/nav_fac_chnagepass"
+                android:icon="@drawable/resetpassword_icon"
+                android:title="Reset Password" />
+            <item
+                android:id="@+id/nav_faclogout"
+                android:icon="@drawable/logout_icon"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

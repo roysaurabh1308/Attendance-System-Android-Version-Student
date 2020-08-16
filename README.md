@@ -12,23 +12,26 @@
 </p>
 
 ## About
-Student Attendance Portal is another project of attendance management system.This web-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This web-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
 
 
 ## Features
-- Realtime-synchronization with database.
-- notification if attendace below threshold. 
-- can see all attendance details anytime they want.
-- Autogenerate the **Excel Sheet** corresponding to the attendance record of the students.
+- **Realtime-synchronization** with database.
+- **Notification alert** if attendace below threshold. 
+- Student can **View & analyse attendance details**, anytime you want.
+- Faculty can **Autogenerate the Excel Sheet** corresponding to the attendance report of the students.
 
 ## Security 
 - Login details and device id verification to avoid fraud and Spamming.
 - device block if unusual activity detected.
 - Allows single device login per id at time.
+- End-to-End encryption.
 
 
 # Screenshots #
-##Splashscreen & Dashboard
+
+## Splashscreen & Dashboard
+
 |<img src="Documentation/Screenshots/1SplashScreen.png">|
 |:--:|
 |**Splashscreen**|
@@ -36,47 +39,49 @@ Student Attendance Portal is another project of attendance management system.Thi
 
 |<img src="Documentation/Screenshots/2Dashboard.png">|
 |:--:|
-|**Splashscreen**|
+|**Dashboard**|
 
 
 |<img src="Documentation/Screenshots/3LoginPanel.png">|
 |:--:|
-|**Splashscreen**|
+|**Login Panel**|
 
+## Faculty Section
 
 |<img src="Documentation/Screenshots/4FacultyRegistration.png">|
 |:--:|
-|**Splashscreen**|
+|**Faculty Registration**|
 
 
 |<img src="Documentation/Screenshots/5CreateStudentAccount.png">|
 |:--:|
-|**Splashscreen**|
+|**Create Student Account**|
 
 
 |<img src="Documentation/Screenshots/6SubjectEnrollment.png">|
 |:--:|
-|**Splashscreen**|
+|**Subject Enrollment**|
 
 
 |<img src="Documentation/Screenshots/7AttendanceRegister.png">|
 |:--:|
-|**Splashscreen**|
+|**Attendance Register**|
 
 
 |<img src="Documentation/Screenshots/8CreateAteendanceExcelSheet.png">|
 |:--:|
-|**Splashscreen**|
+|**Create Atteendance Excel Sheet**|
 
+## Student Section
 
 |<img src="Documentation/Screenshots/9ViewAttendance.png">|
 |:--:|
-|**Splashscreen**|
+|**View Attendance**|
 
 
 |<img src="Documentation/Screenshots/10OverallAttendance.png">|
 |:--:|
-|**Splashscreen**|
+|**Overall Attendance**|
 
 
 ## Tools Used

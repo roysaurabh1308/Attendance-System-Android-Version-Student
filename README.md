@@ -1,4 +1,4 @@
-# IIITNR-Attendance-System-Web-Version
+# IIITNR Attendance System - Android Version (Student)
 <p align="center"><img src="Documentation/icons/logo.png" width=75% h></p>
 
 <p align="center">
@@ -12,7 +12,11 @@
 </p>
 
 ## About
+<<<<<<< HEAD
 Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This web-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+=======
+Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This Android-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+>>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
 
 ## Features
@@ -29,19 +33,32 @@ Attendance Management System is a software developed for daily student attendanc
 
 
 # Screenshots #
+<<<<<<< HEAD
 
 ## Splashscreen & Dashboard
 
 |<img src="Documentation/Screenshots/1SplashScreen.png">|
 |:--:|
 |**Splashscreen**|
+=======
+>>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
+|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-52-02-558_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-39-16-298_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-03-53-934_com.developerdesk9.attendanceregister.png" width="267">|
+|:--:|:--:|:--:|
+|**Splashscreen**|**Internet Check**|**Login**|
 
+<<<<<<< HEAD
 |<img src="Documentation/Screenshots/2Dashboard.png">|
 |:--:|
 |**Dashboard**|
+=======
+>>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
+|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-33-176_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-38-375_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-50-779_com.developerdesk9.attendanceregister.png" width="267">|
+|:--:|:--:|:--:|
+|**Navigation drawer**|**Profile Section**|**Change Password**|
 
+<<<<<<< HEAD
 |<img src="Documentation/Screenshots/3LoginPanel.png">|
 |:--:|
 |**Login Panel**|
@@ -82,10 +99,15 @@ Attendance Management System is a software developed for daily student attendanc
 |<img src="Documentation/Screenshots/10OverallAttendance.png">|
 |:--:|
 |**Overall Attendance**|
+=======
+|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-52-29-664_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-17-58-748_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-56-35-642_com.developerdesk9.attendanceregister.png" width="267">|
+|:--:|:--:|:--:|
+|**Dashboard**|**Select Enrolled subjects**|**Attendace Record with all required details**|
+>>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
 
 ## Tools Used
-* [PHP](https://www.php.net/) : Used as the Android developement environment.
+* [Android Studio](https://developer.android.com/studio) : Used as the Android developement environment.
 * [Firebase Realtime Database](https://firebase.google.com/products/realtime-database) : Used as the backend database.
 * [Firebase Storage](https://firebase.google.com/products/storage) : Use to store product Image
 * [Firebase Authentication](https://firebase.google.com/products/auth) : Used to manage User information

@@ -1,4 +1,4 @@
-# IIITNR-Attendance-System-Web-Version
+# IIITNR Attendance System - Android Version (Student)
 <p align="center"><img src="Documentation/icons/logo.png" width=75% h></p>
 
 <p align="center">

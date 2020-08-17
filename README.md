@@ -3,8 +3,8 @@
 
 <p align="center">
 <a href=""><img src="Documentation/icons/build.svg" target="_blank" alt="Build Status"></a>
-<a href="https://github.com/roysaurabh1308/IIITNR-Attendance-System-Web-Version" target="_blank"><img src="Documentation/icons/stable.svg"  alt="Latest Stable Version"></a>
-<a href="Documentation/Attendance_register.apk" target="_blank"><img src="Documentation/icons/apk.svg" alt="Apk"><a>
+<a href="https://github.com/roysaurabh1308/Attendance-System-Android-Version-Student" target="_blank"><img src="Documentation/icons/stable.svg"  alt="Latest Stable Version"></a>
+<a href="Attendance%20System%20Handover%20Doc%20and%20Appliation/Student%20Application.apk" target="_blank"><img src="Documentation/icons/apk.svg" alt="Apk"><a>
 <a href="LICENSE" target="_blank"><img src="Documentation/icons/license.svg" alt="License"><a>
 <br>
 

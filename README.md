@@ -12,11 +12,7 @@
 </p>
 
 ## About
-<<<<<<< HEAD
-Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This web-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75% attendance criteria.
-=======
 Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This Android-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
->>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
 
 ## Features
@@ -33,77 +29,19 @@ Attendance Management System is a software developed for daily student attendanc
 
 
 # Screenshots #
-<<<<<<< HEAD
-
-## Splashscreen & Dashboard
-
-|<img src="Documentation/Screenshots/1SplashScreen.png">|
-|:--:|
-|**Splashscreen**|
-=======
->>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
 |<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-52-02-558_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-39-16-298_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-03-53-934_com.developerdesk9.attendanceregister.png" width="267">|
 |:--:|:--:|:--:|
 |**Splashscreen**|**Internet Check**|**Login**|
 
-<<<<<<< HEAD
-|<img src="Documentation/Screenshots/2Dashboard.png">|
-|:--:|
-|**Dashboard**|
-=======
->>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
 |<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-33-176_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-38-375_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-50-779_com.developerdesk9.attendanceregister.png" width="267">|
 |:--:|:--:|:--:|
 |**Navigation drawer**|**Profile Section**|**Change Password**|
 
-<<<<<<< HEAD
-|<img src="Documentation/Screenshots/3LoginPanel.png">|
-|:--:|
-|**Login Panel**|
-
-## Faculty Section
-
-|<img src="Documentation/Screenshots/4FacultyRegistration.png">|
-|:--:|
-|**Faculty Registration**|
-
-
-|<img src="Documentation/Screenshots/5CreateStudentAccount.png">|
-|:--:|
-|**Create Student Account**|
-
-
-|<img src="Documentation/Screenshots/6SubjectEnrollment.png">|
-|:--:|
-|**Subject Enrollment**|
-
-
-|<img src="Documentation/Screenshots/7AttendanceRegister.png">|
-|:--:|
-|**Attendance Register**|
-
-
-|<img src="Documentation/Screenshots/8CreateAteendanceExcelSheet.png">|
-|:--:|
-|**Create Atteendance Excel Sheet**|
-
-## Student Section
-
-|<img src="Documentation/Screenshots/9ViewAttendance.png">|
-|:--:|
-|**View Attendance**|
-
-
-|<img src="Documentation/Screenshots/10OverallAttendance.png">|
-|:--:|
-|**Overall Attendance**|
-=======
 |<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-52-29-664_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-17-58-748_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-56-35-642_com.developerdesk9.attendanceregister.png" width="267">|
 |:--:|:--:|:--:|
 |**Dashboard**|**Select Enrolled subjects**|**Attendace Record with all required details**|
->>>>>>> dffe1433223770cffaae0515f80d5fceb6381396
 
 
 ## Tools Used

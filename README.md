@@ -13,7 +13,7 @@
 
 ## About
 <<<<<<< HEAD
-Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This web-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This web-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75% attendance criteria.
 =======
 Attendance Management System is a software developed for daily student attendance in schools, colleges and institutes. The purpose of developing attendance management system is to computerize the tradition way of taking attendance. This Android-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
 >>>>>>> dffe1433223770cffaae0515f80d5fceb6381396

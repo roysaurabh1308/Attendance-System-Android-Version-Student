@@ -58,7 +58,7 @@ Attendance Management System is a software developed for daily student attendanc
 ## Contributing
 You are welcome to contribute :
 
-1. Fork it (https://github.com/roysaurabh1308/Virtual-Keyboard-3.0/fork)
+1. Fork it (https://github.com/roysaurabh1308/Attendance-System-Android-Version-Student/fork)
 2. Create new branch : `git checkout -b new_feature`
 3. Commit your changes : `git commit -am 'Added new_feature'`
 4. Push to the branch : `git push origin new_feature`
